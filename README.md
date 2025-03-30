@@ -3,6 +3,16 @@
 ## 📌 Project Overview
 SnapLens Cameras set ambitious sales targets for 2023, distributing budgets across regions, states, and product lines (Professional, Adventure, and Lifestyle). This project analyzes the variance between budgeted and actual sales by month, state, and region.
 
+
+### TransactionsTable 
+https://raw.githubusercontent.com/Invact-Abhay/DOE/refs/heads/main/ActualTable.csv
+
+### BudgetTable
+
+https://raw.githubusercontent.com/Invact-Abhay/DOE/refs/heads/main/BudgetTable.csv
+
+
+
 ## 📊 Key Objectives
 * Load and clean actual and budgeted sales data.
 * Merge both datasets to compare planned vs. actual sales.
